@@ -10,6 +10,8 @@ module.exports = {
         primary: "#FD661F",
         secondary: "#64748b",
         dark: "#30333C",
+        paragraph: "#ADADAD",
+        header: "#526E55",
       },
     },
   },
